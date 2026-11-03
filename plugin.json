@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cosign",
+  "version": "1.0.0",
+  "description": "Find people, companies, and jobs; manage your professional network with Cosign.",
+  "author": {
+    "name": "Cosign",
+    "email": "cosign@a16z.com",
+    "url": "https://cosign.co"
+  },
+  "homepage": "https://cosign.co",
+  "repository": "https://github.com/dhruv575/cosign-mcp",
+  "license": "MIT",
+  "keywords": [
+    "professional-network",
+    "people",
+    "companies",
+    "jobs",
+    "startups",
+    "research"
+  ]
+}
